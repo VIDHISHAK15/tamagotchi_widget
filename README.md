@@ -176,9 +176,6 @@ The current architecture leaves room for several extensions:
 - **More complex interactions** — Build additional App Intents around the same state-management layer.
 
 ---
-
-## ⭐
-
 If you find the project useful, interesting, or it gives you an idea for your own widget, consider giving it a ⭐.
 
 **Built with SwiftUI, WidgetKit, and a little bit of creative engineering. 🐾**
